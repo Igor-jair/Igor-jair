@@ -14,7 +14,7 @@
 ### Minhas astúcias
 
 <div style="display: inline-block"><br/>
-  <img alt="cat work" width="300" align="right" src="https://i.pinimg.com/originals/d8/6f/3a/d86f3ab8192f5589eca93cd7725ad8e4.gif"/>
+  <img alt="cat work" width="200" align="right" src="https://i.pinimg.com/originals/d8/6f/3a/d86f3ab8192f5589eca93cd7725ad8e4.gif"/>
   <img align="center" alt="visual studio" src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"/>  
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
