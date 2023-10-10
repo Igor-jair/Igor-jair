@@ -5,11 +5,11 @@
 -   📫 Email para entrar em contato: profissional.fernandes1@gmail.com
 <br/>
 
-<div align="inline-block">
+ <!--<div align="inline-block">
   <a href="![Igor Github stats](https://github-readme-stats.vercel.app/api?username=Igor-jair&show_icons=true&theme=dracula)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igor-jair&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-jair&layout=compact&langs_count=7&theme=dracula"/>
-</div><br/>
+</div><br/> -->
 
 ### Minhas astúcias
 
