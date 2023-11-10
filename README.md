@@ -3,7 +3,6 @@
 - 📚 Aluno de Informática para Internet
 -  🌱 Buscando sempre aprender mais
 -   📫 Email para entrar em contato: profissional.fernandes1@gmail.com
-<br/>
 
  <!--<div align="inline-block">
   <a href="![Igor Github stats](https://github-readme-stats.vercel.app/api?username=Igor-jair&show_icons=true&theme=dracula)">
