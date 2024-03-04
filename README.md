@@ -2,7 +2,7 @@
 
 - 📚 Aluno de Informática para Internet
 -  🌱 Buscando sempre aprender mais
--   📫 Email para entrar em contato: profissional.fernandes1@gmail.com
+-   📫 Email para entrar em contato: igorfernandes.mobile16@gmail.com
 </br>
 
  <!--<div align="inline-block">
